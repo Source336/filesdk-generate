@@ -1,7 +1,7 @@
 var id = ""
 var sdk = "file_sdk_"
 var sdk2 = document.querySelector(".sdk .your-sdk")
-var copyBTN = document.querySelector("copy")
+var copyBTN = document.querySelector(".copy")
 
 var codeSupports = "abcdefghijklmnopqrstuvwxyz0123456789"
 
